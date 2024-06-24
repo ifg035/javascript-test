@@ -1,3 +1,17 @@
+//white , for 반복문(loop)
+// while (condition){} 반복문 본문(body)이라 불림
+// let i = 3;      //기준
+// while (i<3){    //범위
+//     alert(i);   //출력할 변수
+//     i++;
+// }
+let i =0;
+do {
+    alert(i);
+    i++;
+} while (i < 3);
+
+
 //문자형
 // let value = true;
 // alert(typeof value); // boolean
@@ -27,3 +41,4 @@
 
 // alert( Boolean("hello") ); //문자열(true)
 // alert( Boolean("") ); //빈 문자열(false)
+
