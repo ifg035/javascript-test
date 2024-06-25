@@ -5,11 +5,14 @@
 //     alert(i);   //출력할 변수
 //     i++;
 // }
-let i =0;
-do {
-    alert(i);
-    i++;
-} while (i < 3);
+
+// let i =0;
+// do {
+//     alert(i); // 0,1,2 출력
+//     i++;
+// } while (i < 3);
+
+
 
 
 //문자형
